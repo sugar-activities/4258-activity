@@ -1,0 +1,11 @@
+
+[Activity]
+name = Bounce
+bundle_id = org.laptop.pippy.Bounce
+service_name = org.laptop.pippy.Bounce
+class = activity.VteActivity
+icon = activity-icon
+activity_version = 1
+mime_types = 
+show_launcher = yes
+
